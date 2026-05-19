@@ -7,9 +7,13 @@
 اگر سوالی و نکته ای بود میتونید با من از طریق ایمیل و یا تلگرام در ارتباط باشید.رفیق شما ارسلانم.
     <br>
     <br>
-ما هنوز باور داریم به خدای رنگین کمان 💫🌈
+
 </div>
 
 https://matplotlib.org/stable/gallery/index.html
 <br>
 https://matplotlib.org/stable/plot_types/index.html
+
+<div align="center">
+May The Force Be With You  💫
+</div>
